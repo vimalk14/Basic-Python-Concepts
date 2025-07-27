@@ -1,5 +1,4 @@
-# Tutedude-Assignments
-My Assignment
+# Tutedude-Assignment 1
 
 Task 1: Perform Basic Mathematical Operations like addition, subtraction, multiplication and division of two numbers using input (integer) from the user.
 
